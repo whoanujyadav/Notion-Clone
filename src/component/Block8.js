@@ -1,6 +1,6 @@
 import React from "react";
 
-const Dog = () => {
+const Block8 = () => {
   return (
     <div className="font-sans mt-20">
       <h1 className="text-6xl font-bold mb-4">Get started for free</h1>
@@ -27,4 +27,4 @@ const Dog = () => {
   );
 };
 
-export default Dog;
+export default Block8;
