@@ -1,0 +1,36 @@
+.notion-footer {
+    /* background-color: #f4f4f4; */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-social ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .footer-social ul li {
+    margin-right: 10px;
+  }
+  
+  
+  .footer-menu {
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .footer-column ul li {
+    margin-bottom: 6px;
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .footer-column ul li:hover {
+    color: #666;
+    cursor: pointer;
+  }
